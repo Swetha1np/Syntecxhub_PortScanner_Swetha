@@ -1,0 +1,11 @@
+Target: scanme.nmap.org
+Ports: 21 - 28
+
+Port 22 OPEN
+Port 21 CLOSED
+Port 23 CLOSED
+Port 24 CLOSED
+Port 25 CLOSED
+Port 26 CLOSED
+Port 27 CLOSED
+Port 28 CLOSED
